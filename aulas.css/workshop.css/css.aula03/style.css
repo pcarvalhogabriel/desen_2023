@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+    background-color: black;
+    color: white;
+}
+/* Class aplicada a paragrafo */
+p{
+    background-color:green ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+.nameclassparg1 {
+    font-style: oblique;
+    background-color: greenyellow ;
+    color: black;
+}
+/* Class de Titulo Principais */
+h1{
+    color: gray;
+    text-align: center;
+}
+
+/* Classe aplicada a paragrafo 2 */
+
+.nameclassparg3 {
+    font-style:normal ;
+    background-color: blue ;
+    color: white;
+}
+
+.colortitulo {
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#p4 {
+    background-color:chartreuse ;
+    color: black;
+}
