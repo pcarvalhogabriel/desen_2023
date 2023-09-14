@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: Arial,;
+}
+
+article {
+    background-color:#333 ;
+    color: white;
+    border-top: dotted 3px red ;  
+    border-left: solid 6px red ;
+    border-bottom: solid 9px red ;
+    border-right: solid 2px red;
+    padding: 20px;
+    margin: 40px; 
+     }
+
+.parg1{
+    font-size: 30px;
+    margin: 2px;
+}
+
+.escrita1{
+    font-size: medium;
+}
+ 
+.botao{
+    background-color: black;
+    color: white;
+    margin: 2px;
+    padding: 5px;
+    font-size: larger;
+    width: 100px;
+    height: 28px;
+    text-align: center;
+    
+}

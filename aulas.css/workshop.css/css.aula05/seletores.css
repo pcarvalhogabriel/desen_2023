@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+article P{
+    background-color: aquamarine;
+    color: black;
+    margin: 8px;
+    padding: 8px;
+}
+p{
+    background-color: blue;
+    color: whitesmoke;
+    margin: 8px;
+    padding: 8px;
+}
+ h1{
+    font-size: 48px;
+    margin: 8px;
+    padding: 8px;
+    border: 2px solid cadetblue;
+    text-align: center;
+ }
+ footer{
+    border: 2px solid black;
+    border-radius: 15px;
+    font-family: Verdana;
+    font-size: smaller;
+    text-align: center;
+   margin: 20px 600px ;
+   
+ }
