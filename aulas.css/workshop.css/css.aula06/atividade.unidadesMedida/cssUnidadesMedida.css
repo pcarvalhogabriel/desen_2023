@@ -5,6 +5,7 @@
 }
  .body{
     font-family: Arial, Helvetica, sans-serif;
+    
  }
 
 .cabecalho{
@@ -19,12 +20,55 @@
 }
 
 .home{
+    float: left;
     font-size: 18px;
     text-decoration: none;
-    color:cadetblue;
-    border: black 1px solid ;
-    padding: 1px 2px;
-    border-radius: 1px; 
-    
+    background-color: #21ED7A ;
+    color:Black;
+    border: #23BFF7 3px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px ;
+    margin-left: 5px ;
+    margin-right: 5px;
+}
 
+.Cont{
+    float: left;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #21ED7A ;
+    color:Black;
+    border: #23BFF7 3px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px ;
+    margin-left: 5px ;
+    margin-right: 5px;
+}
+
+.empresa{
+    float: left;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #21ED7A ;
+    color:Black;
+    border: #23BFF7 3px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px ;
+    margin-left: 5px ;
+    margin-right: 5px;
+}
+
+.imgseg{
+    width: 100vw;
+}
+
+.fotter{
+    text-align: center;
+    
 }
